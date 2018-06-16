@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const serviceHost = 'http://localhost:9460'
+const serviceHost = 'http://52.221.194.145:9460'
 var config = {
   headers: {
     'Access-Control-Allow-Origin': '*',
